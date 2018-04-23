@@ -1,0 +1,13 @@
+{
+    "name": "GrappleNinja",
+    "icons": [
+        {
+            "src": "/images/grapple-ninja-logo.svg",
+            "sizes": "192x192",
+            "type": "image/svg+xml"
+        }
+    ],
+    "theme_color": "#000000",
+    "background_color": "#000000",
+    "display": "standalone"
+}
